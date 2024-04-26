@@ -1,7 +1,7 @@
-🚀 Welcome to my Github profile! I'm a passionate and results-driven professional with a strong background in Cloud Computing. As a certified AWS Solutions Architect and Terraform Associate, I specialize in designing and implementing robust, scalable, and cost-effective cloud solutions.
+🚀 Welcome to my GitHub profile! I'm a passionate and results-driven professional with a strong background in Cloud Computing. As a certified AWS Solutions Architect and Terraform Associate, I specialize in designing and implementing robust, scalable, and cost-effective cloud solutions.
 
 🎓 Education:
-I am in 3rd term of my post-graduate studies in DevOps for Cloud Computing at Lambton College. This academic journey equipped me with a solid foundation in DevOps and Cloud.
+I am in the final term of my post-graduate studies in DevOps for Cloud Computing at Lambton College. This academic journey equipped me with a solid foundation in DevOps and Cloud.
 
 💡 AWS Solutions Architect:
 Certified as an AWS Solutions Architect, I excel in architecting and deploying secure and highly available systems on the AWS cloud.
