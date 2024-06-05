@@ -11,7 +11,7 @@ As a Terraform Associate, I leverage Infrastructure as Code (IaC) principles to 
 
 🚀 Key Skills:
 Cloud Architecture
-AWS Services (e.g., EC2, S3, Lambda)
+AWS Services (e.g., EC2, S3, EKS, RDS and Lambda)
 Infrastructure as Code (Terraform)
 
 🌐 Open to Collaborations:
