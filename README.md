@@ -3,16 +3,26 @@
  Key Skills:
 💻 Programming Languages and Scripting: Java, Python, Shell scripting (Bash), Unix commands and
       Groovy
+
 ☁️ Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+
 📜 Infrastructure as Code (IaC): Terraform, CloudFormation
+
 🐳 Containerization and Orchestration: Docker, Kubernetes (K8s), Google Kubernetes Engine (GKE), 
       Azure Kubernetes Service (AKS), Amazon Elastic Kubernetes Service (EKS) and Kops
+
 🔄 Kubernetes Controller (GitOps): Argo CD
+
 🔧 CI/CD Tools: Jenkins, GitLab CI, GitHub Actions, CircleCI
+
 ⚙️ Configuration Management: Ansible
+
 📈 Monitoring and Logging: Prometheus, Grafana
+
 📂 Version Control Systems: Git, GitHub, Bitbucket, GitLab
+
 🌐 Web Frameworks: NestJS, Spring Boot, Struts2
+
 🗄️Databases: MySQL, PostgreSQL, MongoDB
 
 📜 Certifications:
