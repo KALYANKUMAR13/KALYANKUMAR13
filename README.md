@@ -1,10 +1,11 @@
 🚀  Welcome to my GitHub profile! I'm a passionate and certified DevOps Engineer with a strong background in cloud computing, automation, containerization, container orchestration, and continuous integration/continuous deployment (CI/CD) pipelines.  With over 2 years of experience designing, implementing, and managing scalable and secure infrastructure, I help organizations streamline their development processes and achieve faster time-to-market.
 
  Key Skills:
-💻 Programming Languages and Scripting: Java, Python, Shell scripting (Bash), Unix commands and
-      Groovy
 
-☁️ Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+💻 **Programming Languages and Scripting**: Java, Python, Shell scripting (Bash), Unix commands and Groovy
+    
+
+**☁️ Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
 
 📜 Infrastructure as Code (IaC): Terraform, CloudFormation
 
