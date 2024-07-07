@@ -2,7 +2,7 @@
 
  **Key Skills**:
 
-💻 **Programming Languages and Scripting**: Java, Python, Shell scripting (Bash), Unix commands and Groovy
+💻 **Programming Languages and Scripting**: Java, Python, Bash scripting , Unix commands and Groovy
     
 
 **☁️ Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
