@@ -28,6 +28,7 @@
 📜 **Certifications**:
 
 Terraform Certified Associate
+
 AWS Certified Solutions Architect
 
 **🏢Professional Experience**:
