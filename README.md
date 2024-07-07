@@ -42,6 +42,7 @@ Furthermore, I am passionate about security and have played a pivotal role in em
 **🎓 Education:**
 
 Post-Graduate Diploma in DevOps for Cloud Computing, Lambton College, Canada.
+
 Bachelor of Technology in Information Technology, Anna University, India.
 
 **🌐 Open to Collaborations:**
