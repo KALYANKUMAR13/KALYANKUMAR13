@@ -1,6 +1,6 @@
 🚀  Welcome to my GitHub profile! I'm a passionate and certified DevOps Engineer with a strong background in cloud computing, automation, containerization, container orchestration, and continuous integration/continuous deployment (CI/CD) pipelines.  With over 2 years of experience designing, implementing, and managing scalable and secure infrastructure, I help organizations streamline their development processes and achieve faster time-to-market.
 
- Key Skills:
+ **Key Skills**:
 
 💻 **Programming Languages and Scripting**: Java, Python, Shell scripting (Bash), Unix commands and Groovy
     
@@ -25,13 +25,12 @@
 
 **🗄️Databases**: MySQL, PostgreSQL, MongoDB
 
-📜 Certifications:
+📜 **Certifications**:
 
 Terraform Certified Associate
-
 AWS Certified Solutions Architect
 
-🏢Professional Experience:
+**🏢Professional Experience**:
 
 Throughout my career, I have excelled in orchestrating the migration of legacy applications to cloud-native architectures, leveraging Kubernetes for efficient container orchestration. This involved meticulously planning and executing the transition, ensuring minimal disruption while optimizing scalability and resource utilization. By implementing Infrastructure as Code (IaC), I streamlined the management of infrastructure resources, enabling rapid provisioning and configuration adjustments to meet evolving business needs seamlessly.
 
@@ -39,20 +38,19 @@ I have also demonstrated strong leadership in driving DevOps transformations wit
 
 Furthermore, I am passionate about security and have played a pivotal role in embedding best practices throughout DevOps workflows. I ensured compliance with industry standards and regulations, implementing robust security measures at every stage of the software development lifecycle. By prioritizing security from the outset, I enhanced data protection, minimized vulnerabilities, and fortified system resilience against potential threats.
 
-🎓 Education:
+**🎓 Education:**
 
 Post-Graduate Diploma in DevOps for Cloud Computing, Lambton College, Canada.
-
 Bachelor of Technology in Information Technology, Anna University, India.
 
-🌐 Open to Collaborations:
+**🌐 Open to Collaborations:**
 
 I am enthusiastic about collaborating on projects that involve cloud and IaC. Let's connect and explore ways we can work together to achieve our goals!
 
-📈 Continuous Learning:
+**📈 Continuous Learning:**
 
 In the rapidly evolving tech landscape, I am committed to staying at the forefront of industry trends. I actively seek out opportunities for professional development and continuous learning.
 
-📧 Contact:
+**📧 Contact:**
 
 Feel free to reach out if you share similar interests, have collaboration opportunities, or if you'd like to connect. I'm always open to expanding my network and engaging in meaningful conversations.
