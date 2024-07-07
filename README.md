@@ -7,34 +7,34 @@
 
 **☁️ Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
 
-📜 Infrastructure as Code (IaC): Terraform, CloudFormation
+**📜 Infrastructure as Code (IaC)**: Terraform, CloudFormation
 
-🐳 Containerization and Orchestration: Docker, Kubernetes (K8s), Google Kubernetes Engine (GKE), 
-      Azure Kubernetes Service (AKS), Amazon Elastic Kubernetes Service (EKS) and Kops
+**🐳 Containerization and Orchestration**: Docker, Kubernetes (K8s), Google Kubernetes Engine (GKE), Azure Kubernetes Service (AKS), Amazon Elastic Kubernetes Service (EKS) and Kops
 
-🔄 Kubernetes Controller (GitOps): Argo CD
+**🔄 Kubernetes Controller (GitOps)**: Argo CD
 
-🔧 CI/CD Tools: Jenkins, GitLab CI, GitHub Actions, CircleCI
+**🔧 CI/CD Tools**: Jenkins, GitLab CI, GitHub Actions, CircleCI
 
-⚙️ Configuration Management: Ansible
+**⚙️ Configuration Management**: Ansible
 
-📈 Monitoring and Logging: Prometheus, Grafana
+**📈 Monitoring and Logging**: Prometheus, Grafana
 
-📂 Version Control Systems: Git, GitHub, Bitbucket, GitLab
+**📂 Version Control Systems**: Git, GitHub, Bitbucket, GitLab
 
-🌐 Web Frameworks: NestJS, Spring Boot, Struts2
+**🌐 Web Frameworks**: NestJS, Spring Boot, Struts2
 
-🗄️Databases: MySQL, PostgreSQL, MongoDB
+**🗄️Databases**: MySQL, PostgreSQL, MongoDB
 
 📜 Certifications:
 Terraform Certified Associate
 AWS Certified Solutions Architect
 
 🏢Professional Experience:
-In my career, I have successfully:
-Orchestrated the migration of legacy applications to cloud-native architectures, leveraging Kubernetes for container orchestration and implementing IaC to manage infrastructure resources efficiently.
-Led cross-functional teams in implementing DevOps methodologies, fostering collaboration between development, operations, and QA teams to accelerate delivery timelines and improve software quality.
-Championed security best practices within DevOps workflows, ensuring compliance with industry standards and regulations while integrating security at every stage of the software development lifecycle.
+Throughout my career, I have excelled in orchestrating the migration of legacy applications to cloud-native architectures, leveraging Kubernetes for efficient container orchestration. This involved meticulously planning and executing the transition, ensuring minimal disruption while optimizing scalability and resource utilization. By implementing Infrastructure as Code (IaC), I streamlined the management of infrastructure resources, enabling rapid provisioning and configuration adjustments to meet evolving business needs seamlessly.
+
+I have also demonstrated strong leadership in driving DevOps transformations within organizations. Leading cross-functional teams, I spearheaded the adoption and integration of DevOps methodologies across development, operations, and QA departments. By fostering a collaborative environment and aligning workflows, I significantly accelerated delivery timelines and enhanced software quality. This collaborative approach not only improved communication and efficiency but also cultivated a culture of continuous improvement and shared responsibility.
+
+Furthermore, I am passionate about security and have played a pivotal role in embedding best practices throughout DevOps workflows. I ensured compliance with industry standards and regulations, implementing robust security measures at every stage of the software development lifecycle. By prioritizing security from the outset, I enhanced data protection, minimized vulnerabilities, and fortified system resilience against potential threats.
 
 🎓 Education:
 Post-Graduate Diploma in DevOps for Cloud Computing, Lambton College, Canada.
