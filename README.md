@@ -4,7 +4,7 @@ I'm a passionate and certified DevOps Engineer with over 2 years of experience i
 
 ### Skills:
 
-
+| **Domain **    | ** Tools   **                                       |
 |-------------------------------|------------------------------------------------------------------------------------------------|
 | **🖥️ Programming Languages**    | **Java, Python, Bash scripting, Unix commands, Groovy    **                                       |
 | **☁️ Cloud Platforms**          | AWS, Google Cloud Platform (GCP), Microsoft Azure                                             |
