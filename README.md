@@ -18,6 +18,21 @@ I'm a passionate and certified DevOps Engineer with over 2 years of experience i
 | **Web Frameworks**            | NestJS, Spring Boot, Struts2                                                                 |
 | **Databases**                 | MySQL, PostgreSQL, MongoDB                                                                   |
 
+| **Skillset**                  | **Tools**                                                                                     |
+|-------------------------------|----------------------------------------------------------------------------------------------|
+| **Programming Languages**     | ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-blue) ![Bash](https://img.shields.io/badge/-Bash-lightgrey) ![Unix](https://img.shields.io/badge/-Unix-informational) ![Groovy](https://img.shields.io/badge/-Groovy-lightblue)  |
+| **Cloud Platforms**           | ![AWS](https://img.shields.io/badge/-AWS-orange) ![GCP](https://img.shields.io/badge/-GCP-blue) ![Azure](https://img.shields.io/badge/-Azure-blue)  |
+| **Infrastructure as Code**    | ![Terraform](https://img.shields.io/badge/-Terraform-lightblue) ![CloudFormation](https://img.shields.io/badge/-CloudFormation-blueviolet)  |
+| **Containerization**          | ![Docker](https://img.shields.io/badge/-Docker-blue) |
+| **Container Orchestration**   | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue) ![GKE](https://img.shields.io/badge/-GKE-green) ![AKS](https://img.shields.io/badge/-AKS-blue) ![EKS](https://img.shields.io/badge/-EKS-orange)  |
+| **CI/CD Tools**               | ![Jenkins](https://img.shields.io/badge/-Jenkins-blue) ![GitLab CI](https://img.shields.io/badge/-GitLab-orange) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-grey) ![CircleCI](https://img.shields.io/badge/-CircleCI-blue)  |
+| **Configuration Management**  | ![Ansible](https://img.shields.io/badge/-Ansible-red)  |
+| **Monitoring and Logging**    | ![Prometheus](https://img.shields.io/badge/-Prometheus-orange) ![Grafana](https://img.shields.io/badge/-Grafana-orange)  |
+| **Version Control Systems**   | ![Git](https://img.shields.io/badge/-Git-orange) ![GitHub](https://img.shields.io/badge/-GitHub-grey) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue) ![GitLab](https://img.shields.io/badge/-GitLab-orange)  |
+| **Web Frameworks**            | ![NestJS](https://img.shields.io/badge/-NestJS-red) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green) ![Struts2](https://img.shields.io/badge/-Struts2-orange)  |
+| **Databases**                 | ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) |
+
+
 ### Certifications:
 
 - [Certified Kubernetes Administrator](https://www.credly.com/badges/e85f4308-06ec-44c1-89b7-b1e20ac35b58/public_url)
@@ -37,6 +52,5 @@ Throughout my career, I've excelled in orchestrating cloud migrations, leading D
 I'm committed to continuous learning in the evolving tech landscape. Let's connect and explore opportunities to collaborate on innovative projects!
 
 ### Contact:
-Feel free to reach out via [Email](mailto:kkalyankumar25@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/kalyankumar-v
+Feel free to reach out via [Email](mailto:kkalyankumar25@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kalyankumar-v)
 
-)
