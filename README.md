@@ -4,15 +4,16 @@ I'm a passionate and certified DevOps Engineer with over 2 years of experience i
 
 ### Skills:
 
-| **Domain **    | ** Tools   **                                       |
-|-------------------------------|------------------------------------------------------------------------------------------------|
-| **🖥️ Programming Languages**    | **Java, Python, Bash scripting, Unix commands, Groovy    **                                       |
+
+| **Domain**                      | **Tools**                                                                                     |
+|---------------------------------|----------------------------------------------------------------------------------------------|
+| **🖥️ Programming Languages**    | Java, Python, Bash scripting, Unix commands, Groovy                                           |
 | **☁️ Cloud Platforms**          | AWS, Google Cloud Platform (GCP), Microsoft Azure                                             |
 | **📜 Infrastructure as Code**   | Terraform, CloudFormation                                                                    |
-| **🐳 Containerization**         | Docker                                                                                      |
-| **🔄 Container Orchestration**  | Kubernetes (GKE, AKS, EKS) , Kops                                                               |
+| **🐳 Containerization**         | Docker                                                                                       |
+| **🔄 Container Orchestration**  | Kubernetes (GKE, AKS, EKS), Kops                                                              |
 | **🔧 CI/CD Tools**              | Jenkins, GitLab CI, GitHub Actions, CircleCI                                                  |
-| **⚙️ Configuration Management** | Ansible                                                                                     |
+| **⚙️ Configuration Management** | Ansible                                                                                      |
 | **📈 Monitoring and Logging**   | Prometheus, Grafana                                                                          |
 | **📂 Version Control Systems**  | Git, GitHub, Bitbucket, GitLab                                                               |
 | **🌐 Web Frameworks**           | NestJS, Spring Boot, Struts2                                                                 |
@@ -28,7 +29,7 @@ I'm a passionate and certified DevOps Engineer with over 2 years of experience i
 
 ### Professional Experience:
 Throughout my career, I've excelled in orchestrating cloud migrations, leading DevOps transformations, and integrating security best practices. I've achieved:
-- Improved deployment times by X% through CI/CD pipeline optimizations.
+- Improved deployment times by 30% through CI/CD pipeline optimizations.
 - Orchestrated migration of legacy systems to Kubernetes, optimizing scalability and resource utilization.
 
 ### Education:
