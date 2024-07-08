@@ -27,10 +27,12 @@ I'm a passionate and certified DevOps Engineer with over 2 years of experience i
 - [AWS Certified Solutions Architect](https://www.credly.com/badges/6fb4b59d-ed22-4d2b-827d-5234d468764e/public_url)
 - [Terraform Certified Associate](https://www.credly.com/badges/826cf31c-79aa-4666-8e3c-1bd0fd116265/public_url)
 
-### Professional Experience:
-Throughout my career, I've excelled in orchestrating cloud migrations, leading DevOps transformations, and integrating security best practices. I've achieved:
-- Improved deployment times by 30% through CI/CD pipeline optimizations.
-- Orchestrated migration of legacy systems to Kubernetes, optimizing scalability and resource utilization.
+## 🏢 Professional Experience
+
+Throughout my career, I've excelled in orchestrating cloud migrations and leading DevOps transformations. I've successfully migrated legacy systems to Kubernetes, optimizing scalability and resource utilization. Additionally, I have implemented Infrastructure as Code (IaC) practices to streamline infrastructure management, enabling rapid provisioning and configuration adjustments to meet evolving business needs seamlessly.
+
+I have also integrated security best practices into DevOps workflows, ensuring compliance with industry standards and regulations. By implementing robust security measures at every stage of the software development lifecycle, I've enhanced data protection, minimized vulnerabilities, and fortified system resilience. Furthermore, my CI/CD pipeline optimizations have improved deployment times by 30%, significantly accelerating delivery timelines and enhancing software quality.
+
 
 ### Education:
 - Post-Graduate Diploma in DevOps for Cloud Computing, Lambton College, Canada
