@@ -4,33 +4,19 @@ I'm a passionate and certified DevOps Engineer with over 2 years of experience i
 
 ### Skills:
 
-| Skill Category                | Skills                                                                                      |
-|-------------------------------|---------------------------------------------------------------------------------------------|
-| **Programming Languages**     | Java, Python, Bash scripting, Unix commands, Groovy                                           |
-| **Cloud Platforms**           | AWS, Google Cloud Platform (GCP), Microsoft Azure                                             |
-| **Infrastructure as Code**    | Terraform, CloudFormation                                                                    |
-| **Containerization**          | Docker                                                                                      |
-| **Container Orchestration**   | Kubernetes (GKE, AKS, EKS)                                                                  |
-| **CI/CD Tools**               | Jenkins, GitLab CI, GitHub Actions, CircleCI                                                  |
-| **Configuration Management**  | Ansible                                                                                     |
-| **Monitoring and Logging**    | Prometheus, Grafana                                                                          |
-| **Version Control Systems**   | Git, GitHub, Bitbucket, GitLab                                                               |
-| **Web Frameworks**            | NestJS, Spring Boot, Struts2                                                                 |
-| **Databases**                 | MySQL, PostgreSQL, MongoDB                                                                   |
+| **🖥️ Programming Languages**    | Java, Python, Bash scripting, Unix commands, Groovy                                           |
+|-------------------------------|------------------------------------------------------------------------------------------------|
+| **☁️ Cloud Platforms**          | AWS, Google Cloud Platform (GCP), Microsoft Azure                                             |
+| **📜 Infrastructure as Code**   | Terraform, CloudFormation                                                                    |
+| **🐳 Containerization**         | Docker                                                                                      |
+| **🔄 Container Orchestration**  | Kubernetes (GKE, AKS, EKS) , Kops                                                               |
+| **🔧 CI/CD Tools**              | Jenkins, GitLab CI, GitHub Actions, CircleCI                                                  |
+| **⚙️ Configuration Management** | Ansible                                                                                     |
+| **📈 Monitoring and Logging**   | Prometheus, Grafana                                                                          |
+| **📂 Version Control Systems**  | Git, GitHub, Bitbucket, GitLab                                                               |
+| **🌐 Web Frameworks**           | NestJS, Spring Boot, Struts2                                                                 |
+| **🗄️ Databases**                | MySQL, PostgreSQL, MongoDB                                                                   |
 
-| **Skillset**                  | **Tools**                                                                                     |
-|-------------------------------|----------------------------------------------------------------------------------------------|
-| **Programming Languages**     | ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-blue) ![Bash](https://img.shields.io/badge/-Bash-lightgrey) ![Unix](https://img.shields.io/badge/-Unix-informational) ![Groovy](https://img.shields.io/badge/-Groovy-lightblue)  |
-| **Cloud Platforms**           | ![AWS](https://img.shields.io/badge/-AWS-orange) ![GCP](https://img.shields.io/badge/-GCP-blue) ![Azure](https://img.shields.io/badge/-Azure-blue)  |
-| **Infrastructure as Code**    | ![Terraform](https://img.shields.io/badge/-Terraform-lightblue) ![CloudFormation](https://img.shields.io/badge/-CloudFormation-blueviolet)  |
-| **Containerization**          | ![Docker](https://img.shields.io/badge/-Docker-blue) |
-| **Container Orchestration**   | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue) ![GKE](https://img.shields.io/badge/-GKE-green) ![AKS](https://img.shields.io/badge/-AKS-blue) ![EKS](https://img.shields.io/badge/-EKS-orange)  |
-| **CI/CD Tools**               | ![Jenkins](https://img.shields.io/badge/-Jenkins-blue) ![GitLab CI](https://img.shields.io/badge/-GitLab-orange) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-grey) ![CircleCI](https://img.shields.io/badge/-CircleCI-blue)  |
-| **Configuration Management**  | ![Ansible](https://img.shields.io/badge/-Ansible-red)  |
-| **Monitoring and Logging**    | ![Prometheus](https://img.shields.io/badge/-Prometheus-orange) ![Grafana](https://img.shields.io/badge/-Grafana-orange)  |
-| **Version Control Systems**   | ![Git](https://img.shields.io/badge/-Git-orange) ![GitHub](https://img.shields.io/badge/-GitHub-grey) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue) ![GitLab](https://img.shields.io/badge/-GitLab-orange)  |
-| **Web Frameworks**            | ![NestJS](https://img.shields.io/badge/-NestJS-red) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green) ![Struts2](https://img.shields.io/badge/-Struts2-orange)  |
-| **Databases**                 | ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) |
 
 
 ### Certifications:
