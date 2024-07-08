@@ -20,9 +20,9 @@ I'm a passionate and certified DevOps Engineer with over 2 years of experience i
 
 ### Certifications:
 
-- [Certified Kubernetes Administrator](https://www.cncf.io/certification/cka/)
-- [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-- [Terraform Certified Associate](https://learn.hashicorp.com/certification/terraform-associate)
+- [Certified Kubernetes Administrator](https://www.credly.com/badges/e85f4308-06ec-44c1-89b7-b1e20ac35b58/public_url)
+- [AWS Certified Solutions Architect](https://www.credly.com/badges/6fb4b59d-ed22-4d2b-827d-5234d468764e/public_url)
+- [Terraform Certified Associate](https://www.credly.com/badges/826cf31c-79aa-4666-8e3c-1bd0fd116265/public_url)
 
 ### Professional Experience:
 Throughout my career, I've excelled in orchestrating cloud migrations, leading DevOps transformations, and integrating security best practices. I've achieved:
@@ -37,4 +37,4 @@ Throughout my career, I've excelled in orchestrating cloud migrations, leading D
 I'm committed to continuous learning in the evolving tech landscape. Let's connect and explore opportunities to collaborate on innovative projects!
 
 ### Contact:
-Feel free to reach out via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out via [email](mailto:kkalyankumar25@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/kalyankumar-v).
