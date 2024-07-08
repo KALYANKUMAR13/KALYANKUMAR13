@@ -37,4 +37,6 @@ Throughout my career, I've excelled in orchestrating cloud migrations, leading D
 I'm committed to continuous learning in the evolving tech landscape. Let's connect and explore opportunities to collaborate on innovative projects!
 
 ### Contact:
-Feel free to reach out via [email](mailto:kkalyankumar25@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/kalyankumar-v).
+Feel free to reach out via [Email](mailto:kkalyankumar25@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/kalyankumar-v
+
+)
