@@ -1,6 +1,6 @@
 ### 🚀 Welcome to My GitHub Profile!
 
-I'm a passionate and certified DevOps Engineer with over 2 years of experience in cloud computing, automation, and CI/CD pipelines. Here's what I bring to the table:
+I'm a passionate and certified DevOps Engineer with over 2.8 years of experience in cloud computing, automation, and CI/CD pipelines. Here's what I bring to the table:
 
 ### Skills:
 
