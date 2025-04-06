@@ -35,7 +35,7 @@ I have also integrated security best practices into DevOps workflows, ensuring c
 
 
 ### Education:
-- Post-Graduate Diploma in DevOps for Cloud Computing, Lambton College, Canada
+- Ontario Graduate Certificate in DevOps for Cloud Computing, Lambton College, Canada
 - Bachelor of Technology in Information Technology, Anna University, India
 
 ### Continuous Learning and Collaboration:
